@@ -1,6 +1,6 @@
 # Quantum-ML-Tutorial
  
-PennyLane tutorial at CERN](https://indico.cern.ch/event/893116/) on 3/4 February 2021.
+From PennyLane tutorial at CERN](https://indico.cern.ch/event/893116/) on 3/4 February 2021.
 
 Part I: Classical machine learning with automatic differentiation
 
